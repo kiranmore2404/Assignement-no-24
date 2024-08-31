@@ -78,7 +78,7 @@ footer {
 }
 
 /* Tablet  */
-@media (max-width: 768px) {
+@media (max-width: 900px) and (min-width:769px){
     .books .container {
         flex-direction: column;
     }
